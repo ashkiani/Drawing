@@ -5,7 +5,8 @@
   "main": "dist/draw2d.js",
   "scripts": {
     "build": "webpack --env dev && webpack --env build",
-    "dev": "webpack --progress --colors --watch --env dev"
+    "dev": "webpack --progress --colors --watch --env dev",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
