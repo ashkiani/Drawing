@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "canvg-browser": "1.0.0",
+    "express": "^4.17.1",
     "shifty": "2.3.1"
   }
 }
